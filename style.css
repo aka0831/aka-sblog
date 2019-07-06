@@ -1,0 +1,16 @@
+h1{
+  text-align:center;
+  line-height: 48px;
+}
+
+.header-list li{
+  display:inline;
+  list-style: none;
+  margin: 30px;
+}
+.face{
+  width:200px;
+}
+.heder-list{
+  margin: 0 auto;
+}
